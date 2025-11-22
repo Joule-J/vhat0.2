@@ -1,0 +1,5 @@
+{
+  "name": "chat_0.1",
+  "description": "Oda kodu ile girilebilen, aynı tarayıcıda sekmeler arası çalışan ve uçtan uca şifreli modern bir sohbet uygulaması.",
+  "requestFramePermissions": []
+}
